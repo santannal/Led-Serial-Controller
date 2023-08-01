@@ -1,0 +1,11 @@
+C:\Users\João\source\repos\controladorLed\controladorLed\bin\Debug\controladorLed.exe.config
+C:\Users\João\source\repos\controladorLed\controladorLed\bin\Debug\controladorLed.exe
+C:\Users\João\source\repos\controladorLed\controladorLed\bin\Debug\controladorLed.pdb
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.Formulario.resources
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.Properties.Resources.resources
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.csproj.GenerateResource.cache
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.exe
+C:\Users\João\source\repos\controladorLed\controladorLed\obj\Debug\controladorLed.pdb
